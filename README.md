@@ -1,7 +1,7 @@
 ****Libft - My very first own library****
 ---
 Summary:
-This is a 42 shcool project. It is about coding a C library that will contain a lot of general purpose functions.
+This is a 42 school project. It is about coding a C library that will contain a lot of general purpose functions.
 
 
 Technical considerations
